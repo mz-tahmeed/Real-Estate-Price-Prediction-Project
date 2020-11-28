@@ -12,7 +12,7 @@ This data science project series walks through step by step process of how to bu
 
 
 ## EDA
-I looked at the distributions of the data and the value counts for the various categorical variables. Below are a few highlights from the pivot tables.
+I looked at the distributions of the data and the value counts for the various categorical variables and completed some cleaning steps for Model Deployment.
 
 ![](images/eda1.png)
 ![](images/eda2.png)
