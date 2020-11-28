@@ -30,5 +30,6 @@ I looked at the distributions of the data and the value counts for the various c
 ## Sources:
 
 **Dataset is downloaded from here:** https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+
 **You can view on the details of this project here:** https://www.youtube.com/channel/UCh9nVJoWXmFb7sLApWGcLPQ
 
